@@ -4,6 +4,8 @@ My name is Luiz Fernando Estivalet from Brazil (🇧🇷). I've been working as 
 
 In my free time I like to play piano, develop some games, to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
 
+More about my carrer as Software Developer (http://estivalet.github.io/)
+
 Would you like to find me?
 
 [![Blog Badge](https://img.shields.io/badge/Blog-lfestivalet-black)](https://lfestivalet.wordpress.com/)
