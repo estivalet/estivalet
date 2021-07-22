@@ -1,3 +1,6 @@
+![](https://komarev.com/ghpvc/?username=estivalet&color=green)
+<img align="right" width="300" src="https://www.adventsys.in/atplnew/sites/default/files/inline-images/test-automation-page_0.png"/>
+
 ### Hi there! I'm Luiz! 😁
 ## 💻 Software Developer and Test Automation Engineer
 My name is Luiz Fernando Estivalet from Brazil (🇧🇷). I've been working as Full Stack Developer since 2000 and also an experienced test lead working with Robot Framework. I'm passionate about open source projects, and I've always loved to produce a lot of content during my career.
@@ -23,4 +26,4 @@ Would you like to find me?
 - [Tech Tips for Everyone!](https://lfestivalet.wordpress.com/)
   
 ## 📚 Publicações
-- [Testes Automatizados Usando Robot Framework – Módulo 1](https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-1/)
+- [Curso de Testes Automatizados Usando Robot Framework – Módulo 1](https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-1/)
