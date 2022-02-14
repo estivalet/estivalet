@@ -27,3 +27,4 @@ Would you like to find me?
   
 ## 📚 Publicações
 - [Curso de Testes Automatizados Usando Robot Framework – Módulo 1](https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-1/)
+- [Curso de Testes Automatizados Usando Robot Framework - Módulo 2](https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-2/)
