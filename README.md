@@ -5,7 +5,7 @@
 ## 💻 Software Developer and Test Automation Engineer
 My name is Luiz Fernando Estivalet from Brazil (🇧🇷). I've been working as Full Stack Developer since 2000 and also an experienced test lead working with Robot Framework. I'm passionate about open source projects, and I've always loved to produce a lot of content during my career.
 
-In my free time I like to play piano, develop some games, to watch movies (🎞️) and series (📺), to read books (📚), to listen to music (🎵).
+In my free time I like to play piano, develop some games, watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵).
 
 More about my carrer as Software Developer (http://estivalet.github.io/)
 
