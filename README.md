@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=estivalet&color=green)
-<img align="right" width="300" src="https://www.adventsys.in/atplnew/sites/default/files/inline-images/test-automation-page_0.png"/>
+<img align="right" width="300" src="https://www.codewithmmak.com/wp-content/uploads/2022/12/test-automation-840x480.png"/>
 
 ### Hi there! I'm Luiz! 😁
 ## 💻 Software Developer and Test Automation Engineer
