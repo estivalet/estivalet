@@ -37,13 +37,17 @@ Would you like to find me?
 - [Curso de Testes Automatizados Usando Robot Framework - Módulo 2](https://www.udemy.com/course/testes-automatizados-usando-robot-framework-modulo-2/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=estivalet&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=estivalet&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=estivalet&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
+</p>
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=estivalet&show_icons=true&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estivalet&layout=compact&langs_count=6&theme=radical"/>
+  <img height="160em" src="https://github-contributor-stats.vercel.app/api?username=estivalet&limit=5&theme=radical&combine_all_yearly_contributions=true"/>
+</p>
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=estivalet&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-<h2 align="center">🛠️ Languages and Tools </h2>
+<h2>🛠️ Languages and Tools </h2>
 
 <details>
 <summary><b>🏗️ DevOPS</b></summary>
@@ -95,32 +99,8 @@ Would you like to find me?
 
 <br>
 
-<h2 align="center">👨‍💻 More About Me on GitHub</h2>
-
-<details open>
-<summary><b>🔥 Streak Statistics</b></summary>
-<br>
-<p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=estivalet&theme=radical&hide_border=true" alt="bush1D3v" width="390"/>
-</p>
-</details>
-  
-<details open>
-<summary><b>⚡ GitHub Public Stats</b></summary>
-<br>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=estivalet&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estivalet&layout=compact&langs_count=6&theme=radical"/>
-</p>
-</details>
-
-<div align="center">
-  <img align="center" alt="bush1D3v's profile views counter" src="https://profile-counter.glitch.me/estivalet/count.svg" />
-</div>
-
 <h6 align="center">Show ❤️ by 🌟 my repositories!</h6>
 
-<br>
 <br>
 <picture align="center">
  <source align="right" media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AnneAlmd/AnneAlmd/output/github-contribution-grid-snake-dark.svg">
