@@ -1,25 +1,38 @@
-<a href="https://github.com/estivalet"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+
+<div id="header" align="center">
+    <a href="https://github.com/estivalet"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=45664567"/></a>
+
+  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="200"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/luizfestivalet">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://www.youtube.com/@CodingWithLuiz">
+      <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+    </a>
+      <!--
+    <a href="https://www.facebook.com/renzyjm123">
+      <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    </a>
+    <a href="https://open.spotify.com/artist/3nSPxMIsJuaP9pPrIxPHsY">
+      <img src="https://img.shields.io/badge/Spotify-green?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Badge"/>
+    </a>
+      -->
+  </div>
+    <img src="https://komarev.com/ghpvc/?username=estivalet&style=flat-square&color=blue" alt=""/>
+</div>
+
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BB501D&center=true&vCenter=true&multiline=true&random=false&width=435&height=60&lines=Welcome+to+my+profile...%F0%9F%91%8B;I'm+Luiz!+%F0%9F%A4%93" alt="Typing SVG" /></a>
 </div>
 <br>
 
-
-![](https://komarev.com/ghpvc/?username=estivalet&color=green)
-<img align="right" width="300" src="https://www.codewithmmak.com/wp-content/uploads/2022/12/test-automation-840x480.png"/>
-
-### Hi there! I'm Luiz! 😁
 ## 💻 Software Developer and Test Automation Engineer
 My name is Luiz Fernando Estivalet from Brazil (🇧🇷). I've been working as Full Stack Developer since 2000 and also an experienced test lead working with Robot Framework. I'm passionate about open source projects, and I've always loved to produce a lot of content during my career.
 
 In my free time I like to play piano, develop some games, watch movies (🎞️) and series (📺), read books (📚), listen to music (🎵).
 
 More about my carrer as Software Developer (http://estivalet.github.io/)
-
-Would you like to find me?
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luizfestivalet/)](https://www.linkedin.com/in/luizfestivalet/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/EstivaletF)](https://twitter.com/EstivaletF)
 
 ## 💻 Specialists
 
