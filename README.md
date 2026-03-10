@@ -35,14 +35,38 @@ In my free time I like to play piano, develop some games, watch movies (🎞️)
 More about my carrer as Software Developer (http://estivalet.github.io/)
 
 ## 💻 Specialists
+<p align="left">
 
-<p align="left"> <a href="https://robotframework.org/" target="_blank"> <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" alt="robot framework" width="40" height="40"/> </a> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/240px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/>
-  <img src="https://logospng.org/download/java/logo-java-256.png" alt="Java" width="40" height="40"/>
-<a href="https://www.docker.com/" target="_blank"> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a></p>
+<a href="https://robotframework.org/" target="_blank" style="text-decoration:none;">
+  <img src="https://tomiturtiainen.gallerycdn.vsassets.io/extensions/tomiturtiainen/rf-intellisense/2.8.0/1572279203487/Microsoft.VisualStudio.Services.Icons.Default" alt="robot framework" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</a>
+
+<a href="https://www.java.com/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
+
+<a href="https://www.postgresql.org" target="_blank" style="text-decoration:none;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+</a>
+
+</p>
+
 
 ## 📝 Blog
-- [Tech Tips for Everyone!](https://lfestivalet.wordpress.com/)
+- [CodingWithLuiz](https://codingwithluiz.github.io/)
+- [Tech Tips for Everyone! - OLD!](https://lfestivalet.wordpress.com/)
   
 ## 📚 Publications
 - [Python do Zero à Automação](https://www.udemy.com/course/python-do-zero-a-automacao/)
